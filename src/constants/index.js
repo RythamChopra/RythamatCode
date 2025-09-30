@@ -206,18 +206,16 @@ export const collabApps = [
 export const pricing = [
   {
     id: "0",
-    title: "Sales Consultant",
+    title: "Developer",
     description: "at Unacademy , Noida.",
 
     features: [
-      "Worked on lead generation strategies.",
-      "Achieved given revenue targets on a monthly basis.",
-      "Made sales of 20+ lakhs in around 5 months time.",
+      "Implemented role-based dashboards that personalized views for sales reps, team leads, and managers, improving decision making and tracking KPIs.",
     ],
   },
   {
     id: "1",
-    title: "Web Developer",
+    title: "Developer",
     description:
       "at Maivin Consulting Services Private Limited , Greater Noida.",
 
